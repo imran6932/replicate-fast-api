@@ -18,8 +18,8 @@ This is a FastAPI application that utilizes the Replicate package to generate im
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/imran6932/replicate-fast-api.git)
+   cd replicate-fast-api
    ```
 2. Create a virtual environment (optional but recommended):
 
@@ -73,10 +73,6 @@ This is a FastAPI application that utilizes the Replicate package to generate im
 ```bash
 curl -X POST "http://127.0.0.1:8000/generate-image/" -H "Content-Type: application/json" -d '{"prompt": "A futuristic cityscape", "model_version": "replicate/model-version"}'
 ```
-
-## Swagger Docs
-
-docs url- "[http://127.0.0.1:8000/docs]()"
 
 ## License
 
