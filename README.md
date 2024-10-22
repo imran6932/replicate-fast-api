@@ -18,7 +18,7 @@ This is a FastAPI application that utilizes the Replicate package to generate im
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/imran6932/replicate-fast-api.git)
+   git clone https://github.com/imran6932/replicate-fast-api.git
    cd replicate-fast-api
    ```
 2. Create a virtual environment (optional but recommended):
